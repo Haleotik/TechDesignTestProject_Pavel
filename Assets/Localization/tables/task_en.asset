@@ -19,11 +19,11 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 14726152192
-    m_Localized: Going though the asteroids
+    m_Localized: Going through the asteroids
     m_Metadata:
       m_Items: []
   - m_Id: 23815208960
-    m_Localized: Avoiding electricity
+    m_Localized: Avoiding the electricity
     m_Metadata:
       m_Items: []
   references:
