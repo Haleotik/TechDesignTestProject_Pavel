@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: menu_bird_sprite_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -396417026, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -1497309985, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -774320763, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -1724628034, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -364303551, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -454942726, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: -845734908, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    - {fileID: 2040670688, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -845734908
+    - 0d7ce1ad2f08d6346a4012300ccbe416: 2040670688
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -364303551
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -454942726
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -774320763
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -1724628034
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -396417026
+    - 0d7ce1ad2f08d6346a4012300ccbe416: -1497309985
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -845734908, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: 2040670688, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: -364303551, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: -454942726, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: -774320763, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: -1724628034, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: -396417026, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  - {fileID: -1497309985, guid: 0d7ce1ad2f08d6346a4012300ccbe416, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - game_anim_1_6
+  - game_anim_1_7
+  - game_anim_1_4
+  - game_anim_1_5
+  - game_anim_1_2
+  - game_anim_1_3
+  - game_anim_1_0
+  - game_anim_1_1
+  m_RenderDataMap: {}
+  m_Tag: menu_bird_sprite_atlas
+  m_IsVariant: 0
