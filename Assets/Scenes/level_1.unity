@@ -2105,7 +2105,7 @@ ParticleSystem:
     angle: 25
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
-    radiusThickness: 0.5
+    radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
@@ -2188,7 +2188,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 4
+      value: 3.5
       mode: 0
       spread: 0
       speed:
@@ -6259,12 +6259,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1334186026}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -11.95253, y: -10.943986, z: 30.373158}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -55.68943, y: -55.64962, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1995138609}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!82 &1334186030
 AudioSource:
@@ -7341,6 +7341,7 @@ RectTransform:
   - {fileID: 1134566511}
   - {fileID: 692554825}
   - {fileID: 1760122562}
+  - {fileID: 1334186029}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -7555,7 +7556,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8376216744086681, guid: f3f5a7ea1a4ed8542bd5c3eb15afee17, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 87.798004
+      value: 87.79797
       objectReference: {fileID: 0}
     - target: {fileID: 8376216744086681, guid: f3f5a7ea1a4ed8542bd5c3eb15afee17, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -7592,4 +7593,3 @@ SceneRoots:
   - {fileID: 2092011798}
   - {fileID: 1324106272}
   - {fileID: 1472553750}
-  - {fileID: 1334186029}
